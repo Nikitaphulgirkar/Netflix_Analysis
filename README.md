@@ -21,7 +21,8 @@ To ensure accurate analysis, the following cleaning steps were performed:
 Handling null values to maintain data integrity.
 Checking and removing duplicate entries.
 Exploratory Data Analysis (EDA)
-Several exploratory data analysis techniques were applied to understand the dataset better, including:
+Extra steps and more explanation on the process will be explained through the
+code comments
 
 Country Content Distribution: Analyzing the geographical spread of Netflix's content.
 Ratings Distribution: Investigating the distribution of content ratings.
@@ -33,6 +34,8 @@ Production Trend: Significant growth in content production, especially post-2000
 Top Countries: USA, India, and the UK lead in content production.
 Popular Directors: Rajiv Chilaka, Alastair Fothergill, Raul Campos, and Jan Suter.
 Leading Content Ratings: TV-MA is the most common, followed by TV-14 and TV-PG.
+
+
 Power BI Dashboard
 A Power BI dashboard was designed to provide an interactive visualization of the following:
 
